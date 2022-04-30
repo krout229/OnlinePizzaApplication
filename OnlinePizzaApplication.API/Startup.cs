@@ -4,11 +4,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using OnlinePizzaApplication.DAL.Data;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace OnlinePizzaApplication.API
 {
@@ -24,6 +26,8 @@ namespace OnlinePizzaApplication.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<PizzaDbContext>(options=>options.UseSqlServer(Configuration.GetConnectionString("SqlConnection")));
+
             services.AddControllers();
         }
 
