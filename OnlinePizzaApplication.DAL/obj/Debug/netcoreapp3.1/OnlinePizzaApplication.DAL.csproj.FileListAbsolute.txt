@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.deps.json
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.runtimeconfig.json
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.runtimeconfig.dev.json
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.dll
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.pdb
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.dll
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.pdb
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.AssemblyInfo.cs
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.csproj.CopyComplete
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.dll
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.pdb
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.DAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.genruntimeconfig.cache

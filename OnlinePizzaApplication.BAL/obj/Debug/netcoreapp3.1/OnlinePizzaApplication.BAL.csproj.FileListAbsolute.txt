@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.BAL\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.BAL.deps.json
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.BAL\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.BAL.dll
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.BAL\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.BAL.pdb
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.BAL\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.dll
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.BAL\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.dll
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.BAL\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.DAL.pdb
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.BAL\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.pdb
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.BAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.BAL.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.BAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.BAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.BAL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.BAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.BAL.AssemblyInfo.cs
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.BAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.BAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.BAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.BAL.csproj.CopyComplete
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.BAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.BAL.dll
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.BAL\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.BAL.pdb

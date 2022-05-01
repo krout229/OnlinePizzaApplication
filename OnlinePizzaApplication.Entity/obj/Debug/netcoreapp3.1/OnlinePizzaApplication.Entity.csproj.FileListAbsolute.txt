@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.Entity\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.deps.json
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.Entity\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.dll
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.Entity\bin\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.pdb
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.Entity\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.Entity\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.Entity\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.AssemblyInfo.cs
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.Entity\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.Entity\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.dll
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.Entity\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.pdb
