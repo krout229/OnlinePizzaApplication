@@ -8,7 +8,7 @@ using System.Text;
 
 namespace OnlinePizzaApplication.DAL.Repository
 {
-    class PizzaRepository : IPizzaRepository
+    public class PizzaRepository : IPizzaRepository
     {
         private PizzaDbContext _pizzaDb;
         public PizzaRepository(PizzaDbContext pizzaDbContext)

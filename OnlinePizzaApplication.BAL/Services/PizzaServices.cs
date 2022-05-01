@@ -6,7 +6,7 @@ using OnlinePizzaApplication.Entity;
 
 namespace OnlinePizzaApplication.BAL.Services
 {
-    class PizzaServices
+   public class PizzaServices
     {
         private IPizzaRepository _pizzaRepository;
         public PizzaServices(IPizzaRepository pizzaRepository)

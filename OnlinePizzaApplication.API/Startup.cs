@@ -11,6 +11,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using OnlinePizzaApplication.DAL.Repository;
+using OnlinePizzaApplication.BAL.Services;
 
 namespace OnlinePizzaApplication.API
 {
@@ -27,6 +29,8 @@ namespace OnlinePizzaApplication.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<PizzaDbContext>(options=>options.UseSqlServer(Configuration.GetConnectionString("SqlConnection")));
+            services.AddTransient<IPizzaRepository, PizzaRepository>();
+            services.AddTransient<PizzaServices, PizzaServices>();
 
             services.AddControllers();
         }
