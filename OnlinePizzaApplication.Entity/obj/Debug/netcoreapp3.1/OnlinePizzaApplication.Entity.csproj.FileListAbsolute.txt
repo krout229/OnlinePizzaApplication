@@ -7,3 +7,4 @@ C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.Entity\ob
 C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.Entity\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.Entity\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.dll
 C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.Entity\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.pdb
+C:\Users\HP\source\repos\OnlinePizzaApplication\OnlinePizzaApplication.Entity\obj\Debug\netcoreapp3.1\OnlinePizzaApplication.Entity.csproj.AssemblyReference.cache

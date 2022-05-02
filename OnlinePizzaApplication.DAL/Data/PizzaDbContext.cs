@@ -21,5 +21,6 @@ namespace OnlinePizzaApplication.DAL.Data
         public DbSet<Toppings> toppings { get; set; }
         public DbSet<Role> roles { get; set; }
         public DbSet<User> user { get; set; }
+        public DbSet<Reviews> reviews { get; set; }
     }
 }
